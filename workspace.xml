@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="857421a4-3933-4e37-87cb-6658196e6e37" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EkN8L6RyEn8LbK1g5jscMTsGYV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fake_news_prediction" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python Project\Bharathiyar university\Traffic time analyzer final\vehicle-counting-using-python-yolo-master" />
+      <recent name="E:\Python Project\Bharathiyar university\Traffic time analyzer final" />
+      <recent name="D:\Traffic time analyzer final\vehicle-counting-using-python-yolo-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.admin">
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic time analyzer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vehicle-counting-using-python-yolo-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vehicle-counting-using-python-yolo-master/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="automated_mediaplayer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic time analyzer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/automated_mediaplayer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataupload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic time analyzer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vehicle-counting-using-python-yolo-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vehicle-counting-using-python-yolo-master/dataupload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Traffic time analyzer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vehicle-counting-using-python-yolo-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vehicle-counting-using-python-yolo-master/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.admin" />
+        <item itemvalue="Python.automated_mediaplayer" />
+        <item itemvalue="Python.dataupload" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="857421a4-3933-4e37-87cb-6658196e6e37" name="Changes" comment="" />
+      <created>1663135463023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663135463023</updated>
+      <workItem from="1663135464711" duration="3602000" />
+      <workItem from="1663224830872" duration="799000" />
+      <workItem from="1663307484404" duration="9871000" />
+      <workItem from="1663566258556" duration="958000" />
+      <workItem from="1663571083799" duration="4012000" />
+      <workItem from="1676878937691" duration="4303000" />
+      <workItem from="1676883506867" duration="784000" />
+      <workItem from="1676886924064" duration="1269000" />
+      <workItem from="1678012429915" duration="2309000" />
+      <workItem from="1678256449805" duration="801000" />
+      <workItem from="1678346153192" duration="1495000" />
+      <workItem from="1678437306098" duration="535000" />
+      <workItem from="1678455971736" duration="1064000" />
+      <workItem from="1678692246229" duration="254000" />
+      <workItem from="1678692531401" duration="1579000" />
+      <workItem from="1680099491303" duration="14000" />
+      <workItem from="1680099637270" duration="3000" />
+      <workItem from="1680099659502" duration="56000" />
+      <workItem from="1680099738004" duration="3000" />
+      <workItem from="1680099763316" duration="7000" />
+      <workItem from="1680099785229" duration="171000" />
+      <workItem from="1680337933089" duration="4852000" />
+      <workItem from="1680410416611" duration="853000" />
+      <workItem from="1680411321456" duration="1622000" />
+      <workItem from="1680414651393" duration="72000" />
+      <workItem from="1680416424338" duration="128000" />
+      <workItem from="1680416575290" duration="343000" />
+      <workItem from="1680417652634" duration="99000" />
+      <workItem from="1680417799892" duration="524000" />
+      <workItem from="1680418349233" duration="423000" />
+      <workItem from="1680418889967" duration="318000" />
+      <workItem from="1680419273404" duration="60000" />
+      <workItem from="1680419351607" duration="438000" />
+      <workItem from="1680419851044" duration="279000" />
+      <workItem from="1680420152335" duration="205000" />
+      <workItem from="1680420429165" duration="120000" />
+      <workItem from="1680420575737" duration="424000" />
+      <workItem from="1680428662030" duration="567000" />
+      <workItem from="1680429272227" duration="11000" />
+      <workItem from="1680429894378" duration="728000" />
+      <workItem from="1680430668842" duration="310000" />
+      <workItem from="1680431024558" duration="1106000" />
+      <workItem from="1680432720351" duration="793000" />
+      <workItem from="1680433559266" duration="1150000" />
+      <workItem from="1680509878442" duration="912000" />
+      <workItem from="1680588079050" duration="122000" />
+      <workItem from="1680854486947" duration="4187000" />
+      <workItem from="1680864261574" duration="1454000" />
+      <workItem from="1680871798042" duration="2357000" />
+      <workItem from="1680875101587" duration="1531000" />
+      <workItem from="1680878115783" duration="2799000" />
+      <workItem from="1680882528411" duration="1030000" />
+      <workItem from="1681022908337" duration="3008000" />
+      <workItem from="1681098176033" duration="92000" />
+      <workItem from="1681098296866" duration="85000" />
+      <workItem from="1681098415157" duration="437000" />
+      <workItem from="1681140067764" duration="975000" />
+      <workItem from="1702221472973" duration="647000" />
+      <workItem from="1702384466463" duration="344000" />
+      <workItem from="1702385983077" duration="896000" />
+      <workItem from="1702387310142" duration="527000" />
+      <workItem from="1702465035853" duration="1410000" />
+      <workItem from="1703503996831" duration="5073000" />
+      <workItem from="1703509923301" duration="998000" />
+      <workItem from="1705583087903" duration="2695000" />
+      <workItem from="1705728330129" duration="3343000" />
+      <workItem from="1706084138581" duration="755000" />
+      <workItem from="1706173606044" duration="7851000" />
+      <workItem from="1706248325275" duration="4501000" />
+      <workItem from="1706507024569" duration="1860000" />
+      <workItem from="1706514836243" duration="3261000" />
+      <workItem from="1706605216824" duration="4237000" />
+      <workItem from="1706698473487" duration="826000" />
+      <workItem from="1706863855754" duration="2376000" />
+      <workItem from="1706876732413" duration="202000" />
+      <workItem from="1706881662241" duration="1052000" />
+      <workItem from="1706936983353" duration="616000" />
+      <workItem from="1706949040580" duration="4082000" />
+      <workItem from="1708060462554" duration="11104000" />
+      <workItem from="1708254886916" duration="685000" />
+      <workItem from="1708603249388" duration="8015000" />
+      <workItem from="1708665223518" duration="2642000" />
+      <workItem from="1708669600922" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
