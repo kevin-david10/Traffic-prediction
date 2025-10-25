@@ -13,7 +13,7 @@ This project use YOLOv3 for Vehicle detection and SORT(Simple Online and Realtim
 
 2. Make sure you change the line of detection according to your video and fine tune the threshold and confidence for YOLO model
 
-2. Run ```main.py -input /path/to/video/file.avi -output /path/for/output/file.avi -yolo /path/to/YOLO/directory/``` 
+2. Run ```dataupload.py -input /path/to/video/file.avi -output /path/for/output/file.avi -yolo /path/to/YOLO/directory/``` 
 
 
 
@@ -29,3 +29,4 @@ I will keep making commits to improve the speed detection of vehicles. I have tr
 [SORT Algorithm](https://github.com/abewley/sort)
 
 [Reference](https://github.com/guillelopez/python-traffic-counter-with-yolo-and-sort)
+
